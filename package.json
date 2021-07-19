@@ -1,0 +1,14 @@
+{
+  "name": "detect-canvas-orientation",
+  "version": "0.1.0",
+  "description": "Detect whether the canvas handles the Exif's Orientation",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "exif",
+    "canvas",
+    "orientation"
+  ],
+  "author": "GyDi",
+  "license": "MIT"
+}
